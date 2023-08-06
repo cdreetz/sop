@@ -12,12 +12,12 @@ parallel and distributed systems, and software engineering, along with many othe
 efficiency of energy management systems.  HE are applicable to embedded systems for the 
 energy aspect and applicable to server hosted systems for latency and accuracy 
 performance.  Airport security cameras use a system that activates models in the order of 
-1. Object Detection: Faces 2. Generalized Object Classification to segment people of 
-interest 3. Fine Tuned Object Classification to ID individual with a higher confidence 
+1 Object Detection: Faces 2 Generalized Object Classification to segment people of 
+interest 3 Fine Tuned Object Classification to ID individual with a higher confidence 
 than general classification.  Each model is an Expert at its respective step in the 
 hierarchy.  Minimize the possible distribution of outcomes a model has to estimate for.  
-One large model has millions of possible outcomes to consider.  When split up model 1. 
-has 2 object or no object and model 2. has POI or no POI and model 3. has classify from 
+One large model has millions of possible outcomes to consider.  When split up model 1 
+has 2 object or no object and model 2 has POI or no POI and model 3 has classify from 
 list of 10 POI
 
 
@@ -33,9 +33,11 @@ Leveraging code generation to improve code retrieval and summarization via duel 
 - It has only come more apparant that language models are best pretrained on a wide range 
 of tasks or with entirely unsupervised learning and code generation is a particularly 
 interesting application of lanugae models for myself
+
 Mining readme files to support automatic building of java projects in software 
 repositories
 -
+
 Boosting Complete-Code Tool for Partion Programs
 - System dependecy graphs for partial programs would be an interesting topic to reapply 
 given more advanced language models to see how they can better build complex programs 
@@ -91,6 +93,9 @@ Concentration (Is a concentration a requirement?)
 5473 Data Mining 
 
 Not seen on ASAP but would like to take
+
 6283 Deep Learning
+
 6263 Natural Language Processing
+
 *5931 Internship in Computer Science
