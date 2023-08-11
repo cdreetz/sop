@@ -23,10 +23,27 @@ list of 10 POI
 
 ### Faculty
 
+Dhireesha Kudithipudi
+Cheetah: Mixed low-precision hardware & software co-design framework for DNNs on the edge
+- Quantization will play a huge roll in the availability of LLMs to those with limited 
+GPU memory, and harnessing quantization will allow for deploying LLMs on home devices, 
+laptops, phones, and increasingly smaller devices
+
+ACTION: Automated Hardware-Software Codesign Framework for Low-precision Numerical Format 
+SelecTION in TinyML
+- This is important because the current state of deciding on a level of low-precision is 
+dependent on iteratively experimenting with all precisions which can be costly due to 
+retraining already expensive models.  A framework to determine the best precision would 
+save orgs the cost of having to try every precision and just train the best
+
+
 Sumit Jha
 BLOOM Large Language Models and the Chomsky Hierarchy
 - LLM interpretability is a major interest of mine and an increasingly important research 
 topic as we progress with LLMs
+
+Integrating Symbolic and Statistical Methods for Testing Intelligent Systems
+
 
 Xiaoyin Wang
 Leveraging code generation to improve code retrieval and summarization via duel learning
@@ -62,6 +79,27 @@ today.  The downside is that students are able to adapt to new technologies if t
 choose by going out of there way to learn on their own, but students have no control to 
 new classroom learning styles as they are at the mercy of their instructors, some of 
 which may or may not have an interest in providing the best teaching they can.
+
+Anandi Dutta
+Tweets about Self Driving Cars: Deep Sentiment Analysis Using LSTM
+- As someone who has performed sentiment analysis at my job it would be interesting to 
+learn more about sentiment analysis from sentiment researchers
+
+Amanda Fernandez
+Progressive Data Dropout: An Adaptive Training Strategy for Large-Schol Supervised 
+Learning
+- Foundation LLMs today are often trained for extended periods of time of weeks because 
+the length of training has proved to boost performance compared to models trained for 
+shorter time periods.  Due to the large computational requirements at some point the 
+models are determined to no longer be worth continuining training largely to free up 
+organizations compute for other experiements.  A new dropout scheme could be implemented 
+for LLM pretraining to allow for continued training while freeing up resources 
+progressively.  Pretrain on 100% of compute for 2 weeks or until return being to 
+decrease, allow for progressive data dropout to decrease data size after the 2 weeks 
+allowing for training to continue on 60% of compute and freeing up the other 40%.
+
+Murtuza Jadliwala
+Zoom on the Keystrokes: Exploiting Video Calls for Keystroke Inference Attacks
 
 
 ### Courses
