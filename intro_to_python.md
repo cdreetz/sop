@@ -166,3 +166,11 @@ coding ability
  - - pd.read_csv
  - basic processing, isnan, repeating, simple statistics
  - how to split data into train/test or train/val/test
+
+
+
+
+## Special Topic Presentations (Not vital to curriculum but extremely powerful tools)
+
+ - Automating data collection with tools like BeautifulSoup and Selenium
+ - - Collect huge amounts of data across the internet with an automated program
