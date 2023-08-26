@@ -88,7 +88,22 @@ learning experience could be beneficial to learn more nuanced skills.  I
 also will be taking Deep Learning, Natural Language Processing, and 
 Software Engineering, also while I already have experience using these 
 skills practically and also through Stanford Online's Deep Learning 
-courses, I would like to further my learning on the concepts.   
+courses, I would like to further my learning on the concepts.  
+
+Some of the specific topics I plan to research further during the program 
+are ensemble or MoE models, knowledge distillation, and model 
+interpretability.  A large part of my interest is not in these concepts 
+individually but rather how they are related.  In a lot of knowledge 
+distillation or model pruning reserach it is observed that large models 
+can be downsized by upwards of 90-95% of their original size while 
+maintaining performance, and understanding what parts of models are kept 
+and what is removed is vital to our ability to interprate large 
+'black-box' models.  It is also believed that some of today's most 
+successful models, including OpenAI's GPT-4 are mixture-of-expert models 
+or MoE's. MoE, distillation, and task specific fine-tuning have already 
+proven to be vital techniques in making the most out of state of the art 
+models and I plan continue researching in this direction as we have only 
+begun to scratch the surface of their potential.  
 
 
 ## MS CS Program
