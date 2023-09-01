@@ -25,9 +25,11 @@ Python.  This led me to begin studying machine learning, which at the basic leve
 data science.  My prior knowledge of statistics and data science allowed me to quickly get through 
 the basics of machine learning as I studied the CS229 Machine Learning and CS230 Deep 
 Learning lectures from Stanford, including enrolling in and completing a number of Stanford Online 
-courses on ML, DL, and TensorFlow development.  While a lot of my knowledge transferred over the bulk 
+courses on ML, DL, and TensorFlow development.  While a lot of my knowledge transferred, over the 
+bulk 
 of what I had to learn from scratch were concepts like backpropogation, gradient descent, 
-other various optimizers, and other model architectures like the transformer model.  Initially 
+other various optimizers, the different network architectures including convolution and 
+residual nets, transformers for language as well as ViTs for CV.  Initially 
 writing out the math and derivations as many times as I could on 
 paper or on white boards, and eventually writing out the concepts in their most raw forms with only 
 Python and NumPy.  Putting these skills into practice is when I started learning and developing with 
@@ -41,6 +43,12 @@ transformers and read the Attention Is All You Need paper it made me feel like I
 undergrad where these new concepts made me think about the world in entirely new ways and it made me 
 extremely excited.  I started reading every new paper I saw published on SOTA language modeling 
 methods and started studying the CS224U Natural Language Understanding lectures from Stanford. 
+
+Moving forward my research interests can largely fall into the ideas of MoEs for foundation 
+models, 
+distillation and task specific fine tuning paired with distillation to size down large models to 
+fit on edge devices, and model interpretability.  
+
 
 Fine tuning and hardware.  CS concepts becoming more and more important from both a hardware 
 persepctive and a low level code perspective.  Learning CUDA.  Learning about floating points and 
