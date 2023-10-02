@@ -11,17 +11,12 @@ parallel and distributed systems, and software engineering, along with many othe
 
 ### Possible Research Topics
 
-- Hierarchial Ensembles will be able to perform similarly to large MoE models with the 
-efficiency of energy management systems.  HE are applicable to embedded systems for the 
-energy aspect and applicable to server hosted systems for latency and accuracy 
-performance.  Airport security cameras use a system that activates models in the order of 
-1 Object Detection: Faces 2 Generalized Object Classification to segment people of 
-interest 3 Fine Tuned Object Classification to ID individual with a higher confidence 
-than general classification.  Each model is an Expert at its respective step in the 
-hierarchy.  Minimize the possible distribution of outcomes a model has to estimate for.  
-One large model has millions of possible outcomes to consider.  When split up model 1 
-has 2 object or no object and model 2 has POI or no POI and model 3 has classify from 
-list of 10 POI
+- MoE vs hierarchical ensembles
+- Model distillation and/or pruning (general ideas around preserving model performance while decreasing model size and complexity) 
+- New benchmarks for language models
+- Properties of high quality language/code datasets that allow for reaching SOTA performance with less and less training data and training time
+- Instruction fine tuning
+- Combining model distillation, high quality datasets, and instruct fine tuning resulting in high performing models, with minimal model size and complexity, and lesser data requirements in terms of training examples
 
 
 ### Faculty
