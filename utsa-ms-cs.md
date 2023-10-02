@@ -1,109 +1,4 @@
 
-I have always been drawn towards learning and building.  Anytime I learned 
-something I wanted to apply it and make something with the new knowledge, 
-including the reverse where I wanted something so I learned how to make 
-it.  Growing up this evolved into learning about and building various 
-businesses, some successfuly and some not so much, but always a learning 
-experience.  Not until near the end of my undergraduate years did I come 
-to understand the power in computer science and software engineering for 
-learning and building alike.  Skills that at the basic level are very 
-useful for conducting data science tasks and projects, but extend to 
-almost unlimited potential, far beyond just cleaning data and training 
-models.  
-
-I graduated wtih a Bachelor of Science in Statistics and Data Science from 
-UTSA just last year.  My undergraduate journey was nothing to brag about 
-and when you look at it on paper it only shows poor performance.  While 
-there are a number of factors that played a part in my performance, some 
-including having to work full time, 6AM-3PM Monday through Friday, for the 
-first couple years.  Or the year I spent taking care of my dad who was 
-going through some mental health issues where I would regularly get calls 
-to pick him up at hospitals or from the police, during which I tried to 
-get him help at a number of facilities none of which would keep him long 
-before I would have to go pick him up again.  Eventually after several 
-months of barely getting to go to classes or to work, I found a facility 
-where he was able to stay long term.  The main contributor to my grades 
-was the lack of the program teaching relevant and important skills for 
-entering the workforce as a data scientist. To the point that when I 
-realized I would be graduating with almost none of the basic required 
-skills for data scientist positions making it seemingly impossible for me 
-to get a job, I decided I wouldn't be returning halfway through my senior 
-year.  Which I was comfortable with doing because I was already running a 
-successful e-commerce business and continuing going to school would 
-benefit me in no way. 
-
-During this time I focused on scaling my business, hired new employees 
-that allowed me to delegate my most time consuming tasks, and before long 
-realized that this kind of business would never give me the satisfaction I 
-got from learning about and doing more technical or data driven type work.  
-I had began learning Python during my previous semester because I saw it 
-was one of the most common requirements for data science jobs but at no 
-point in my program was it introduced.  So during my academic sabatical I 
-continued furthering my Python programming skills and learning data 
-science and machine learning the way I wanted since I was no longer 
-required to learn what any class wanted me to learn.  I learned how to 
-write web scrapers that allowed me to collect data I wanted to analyze, I 
-also started learning how to build at least the minimum graphical 
-interfaces or front ends to turn the data I collected or models I built 
-into usable products.  
-
-While I have very little academic research experience, I have very 
-extensive experience in independent research.  One of the more formal 
-experiences was during my time with the Google Research TPU program.  I 
-had spent quite a bit of time building my foundational knowledge on 
-machine learning and deep learning from different network architectures, 
-loss functions, optimizers, including the derivations of gradient descent 
-and backpropagation.  Eventually wanting to apply theses concepts but was 
-limited by the compute I had access to.  I applied for and was granted 
-access to Google's TPU Research Cloud program, during which I both 
-learned how to use the entire GCP platform from data storage, to training 
-models, to also using common pretrained models and APIs provided by 
-Google.  
-
-
-In my current role, I have gained invaluable experience that resonates 
-with my academci ambitions.  Among my notable accomplishments is the 
-developement of a sentiment analysis pipeline using an open sourced BERT 
-model 
-fine-tuned for sentiment analysis.  I also developed the machine 
-translation system we use for translating and transcribing audio into 
-various languages as requested by clients. I had initially built this out 
-also with an open source language model but switched to using Azure's 
-Cognitive Services machine translation API for the sake of the speed of 
-translations.  These experiences were not only made possible by my 
-extenside independent study but also solidified my understanding of these 
-concepts in practical applications and further fueled my desire to 
-continue researching more deeply.
-
-I have considered and researched several different graduate programs which 
-helped me come to the conclusion that the CS program would be the best for 
-me. After reading all of the graduate level CS courses I was able to come 
-up with a complete list of the courses I would take based on both my 
-interests and my weaknesses. Classes like parallel processing and cloud 
-computing will be vital for the future as models continue to get larger 
-and it becomes a necessity to use large distributed computing systems to 
-train these models. While I have a foundation given my experiences 
-training on multiple cloud platforms and hardware types, a more formal 
-learning experience could be beneficial to learn more nuanced skills.  I 
-also will be taking Deep Learning, Natural Language Processing, and 
-Software Engineering, also while I already have experience using these 
-skills practically and also through Stanford Online's Deep Learning 
-courses, I would like to further my learning on the concepts.  
-
-Some of the specific topics I plan to research further during the program 
-are ensemble or MoE models, knowledge distillation, and model 
-interpretability.  A large part of my interest is not in these concepts 
-individually but rather how they are related.  In a lot of knowledge 
-distillation or model pruning reserach it is observed that large models 
-can be downsized by upwards of 90-95% of their original size while 
-maintaining performance, and understanding what parts of models are kept 
-and what is removed is vital to our ability to interprate large 
-'black-box' models.  It is also believed that some of today's most 
-successful models, including OpenAI's GPT-4 are mixture-of-expert models 
-or MoE's. MoE, distillation, and task specific fine-tuning have already 
-proven to be vital techniques in making the most out of state of the art 
-models and I plan continue researching in this direction as we have only 
-begun to scratch the surface of their potential.  
 
 
 ## MS CS Program
@@ -245,3 +140,112 @@ Not seen on ASAP but would like to take
 6263 Natural Language Processing
 
 *5931 Internship in Computer Science
+
+
+
+
+I have always been drawn towards learning and building.  Anytime I learned 
+something I wanted to apply it and make something with the new knowledge, 
+including the reverse where I wanted something so I learned how to make 
+it.  Growing up this evolved into learning about and building various 
+businesses, some successfuly and some not so much, but always a learning 
+experience.  Not until near the end of my undergraduate years did I come 
+to understand the power in computer science and software engineering for 
+learning and building alike.  Skills that at the basic level are very 
+useful for conducting data science tasks and projects, but extend to 
+almost unlimited potential, far beyond just cleaning data and training 
+models.  
+
+I graduated wtih a Bachelor of Science in Statistics and Data Science from 
+UTSA just last year.  My undergraduate journey was nothing to brag about 
+and when you look at it on paper it only shows poor performance.  While 
+there are a number of factors that played a part in my performance, some 
+including having to work full time, 6AM-3PM Monday through Friday, for the 
+first couple years.  Or the year I spent taking care of my dad who was 
+going through some mental health issues where I would regularly get calls 
+to pick him up at hospitals or from the police, during which I tried to 
+get him help at a number of facilities none of which would keep him long 
+before I would have to go pick him up again.  Eventually after several 
+months of barely getting to go to classes or to work, I found a facility 
+where he was able to stay long term.  The main contributor to my grades 
+was the lack of the program teaching relevant and important skills for 
+entering the workforce as a data scientist. To the point that when I 
+realized I would be graduating with almost none of the basic required 
+skills for data scientist positions making it seemingly impossible for me 
+to get a job, I decided I wouldn't be returning halfway through my senior 
+year.  Which I was comfortable with doing because I was already running a 
+successful e-commerce business and continuing going to school would 
+benefit me in no way. 
+
+During this time I focused on scaling my business, hired new employees 
+that allowed me to delegate my most time consuming tasks, and before long 
+realized that this kind of business would never give me the satisfaction I 
+got from learning about and doing more technical or data driven type work.  
+I had began learning Python during my previous semester because I saw it 
+was one of the most common requirements for data science jobs but at no 
+point in my program was it introduced.  So during my academic sabatical I 
+continued furthering my Python programming skills and learning data 
+science and machine learning the way I wanted since I was no longer 
+required to learn what any class wanted me to learn.  I learned how to 
+write web scrapers that allowed me to collect data I wanted to analyze, I 
+also started learning how to build at least the minimum graphical 
+interfaces or front ends to turn the data I collected or models I built 
+into usable products.  
+
+While I have very little academic research experience, I have very 
+extensive experience in independent research.  One of the more formal 
+experiences was during my time with the Google Research TPU program.  I 
+had spent quite a bit of time building my foundational knowledge on 
+machine learning and deep learning from different network architectures, 
+loss functions, optimizers, including the derivations of gradient descent 
+and backpropagation.  Eventually wanting to apply theses concepts but was 
+limited by the compute I had access to.  I applied for and was granted 
+access to Google's TPU Research Cloud program, during which I both 
+learned how to use the entire GCP platform from data storage, to training 
+models, to also using common pretrained models and APIs provided by 
+Google.  
+
+
+In my current role, I have gained invaluable experience that resonates 
+with my academci ambitions.  Among my notable accomplishments is the 
+developement of a sentiment analysis pipeline using an open sourced BERT 
+model 
+fine-tuned for sentiment analysis.  I also developed the machine 
+translation system we use for translating and transcribing audio into 
+various languages as requested by clients. I had initially built this out 
+also with an open source language model but switched to using Azure's 
+Cognitive Services machine translation API for the sake of the speed of 
+translations.  These experiences were not only made possible by my 
+extenside independent study but also solidified my understanding of these 
+concepts in practical applications and further fueled my desire to 
+continue researching more deeply.
+
+I have considered and researched several different graduate programs which 
+helped me come to the conclusion that the CS program would be the best for 
+me. After reading all of the graduate level CS courses I was able to come 
+up with a complete list of the courses I would take based on both my 
+interests and my weaknesses. Classes like parallel processing and cloud 
+computing will be vital for the future as models continue to get larger 
+and it becomes a necessity to use large distributed computing systems to 
+train these models. While I have a foundation given my experiences 
+training on multiple cloud platforms and hardware types, a more formal 
+learning experience could be beneficial to learn more nuanced skills.  I 
+also will be taking Deep Learning, Natural Language Processing, and 
+Software Engineering, also while I already have experience using these 
+skills practically and also through Stanford Online's Deep Learning 
+courses, I would like to further my learning on the concepts.  
+
+Some of the specific topics I plan to research further during the program 
+are ensemble or MoE models, knowledge distillation, and model 
+interpretability.  A large part of my interest is not in these concepts 
+individually but rather how they are related.  In a lot of knowledge 
+distillation or model pruning reserach it is observed that large models 
+can be downsized by upwards of 90-95% of their original size while 
+maintaining performance, and understanding what parts of models are kept 
+and what is removed is vital to our ability to interprate large 
+'black-box' models.  It is also believed that some of today's most 
+successful models, including OpenAI's GPT-4 are mixture-of-expert models 
+or MoE's. MoE, distillation, and task specific fine-tuning have already 
+proven to be vital techniques in making the most out of state of the art 
+models and I plan continue researching in this direction as we have only 
+begun to scratch the surface of their potential.  
